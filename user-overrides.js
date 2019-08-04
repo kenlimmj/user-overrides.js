@@ -1,4 +1,4 @@
-user_pref("browser.ctrlTab.recentlyUsedOrder", false)
+user_pref("browser.ctrlTab.recentlyUsedOrder", false);
 user_pref("browser.display.use_document_fonts", 1);
 user_pref("browser.search.suggest.enabled", true);
 user_pref("browser.startup.page", 3);
